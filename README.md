@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItTango
-- 👀 I’m a photographer and musician, and occasional designer. My code accumen is primarily CSS.
+- 👀 I’m a photographer and musician, and occasional designer. My code acumen is primarily CSS.
 - 🌱 I’m currently building a site to host my music using legacy jplayer code, and I have questions ;)
 - 💞️ Thank you to everyone, in advance!
 
